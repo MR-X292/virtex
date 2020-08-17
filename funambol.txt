@@ -1,0 +1,86 @@
+2019-01-14 22:00:56.422 [INFO] [QiKuCloud][com.cloudsync.android.common.log.Log][Pid:6174][Tid:1] init logger >>>>>>>>>
+2019-01-14 22:00:56.424 [INFO] [QiKuCloud][SyncInitializer][Pid:6174][Tid:1] 1.01.272.170306, model is 5041,getModel is 5041,CPB version is ADVAN/5041/ADVAN_5041:6.0/MRA58K/336:user/release-keys MANUFACTURER is ADVAN
+2019-01-14 22:00:56.425 [INFO] [QiKuCloud][SyncInitializer][Pid:6174][Tid:1] Log file created into: /storage/emulated/0/Android/data/com.qiku.android.cloudsync/funambol
+2019-01-14 22:00:56.430 [INFO] [QiKuCloud][AndroidCustomization][Pid:6174][Tid:1] Initializing sources info
+2019-01-14 22:00:56.559 [INFO] [QiKuCloud][Configuration][Pid:6174][Tid:1] Copying default configuration values
+2019-01-14 22:00:56.630 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:6174][Tid:1] Setting up source: 8
+2019-01-14 22:00:56.657 [INFO] [QiKuCloud][AppSyncSourceConfig][Pid:6174][Tid:1] Migrating source config for cgroup
+2019-01-14 22:00:56.781 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:6174][Tid:1] Setting up source: 32
+2019-01-14 22:00:56.783 [INFO] [QiKuCloud][AppSyncSourceConfig][Pid:6174][Tid:1] Migrating source config for sms
+2019-01-14 22:00:56.799 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:6174][Tid:1] Setting up source: 9
+2019-01-14 22:00:56.800 [INFO] [QiKuCloud][AppSyncSourceConfig][Pid:6174][Tid:1] Migrating source config for xcloudcgroup
+2019-01-14 22:00:56.836 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:6174][Tid:1] Setting up source: 3
+2019-01-14 22:00:56.838 [INFO] [QiKuCloud][AppSyncSourceConfig][Pid:6174][Tid:1] Migrating source config for cardcontact
+2019-01-14 22:00:56.848 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:6174][Tid:1] ClassNotFoundExceptionjava.lang.ClassNotFoundException: com.qiku.android.feature.FeatureConfig
+2019-01-14 22:00:56.850 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:6174][Tid:1] ClassNotFoundExceptionjava.lang.ClassNotFoundException: com.qiku.android.internal.telephony.PhoneModeManager
+2019-01-14 22:00:56.852 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:6174][Tid:1] ClassNotFoundExceptionjava.lang.ClassNotFoundException: com.qiku.android.telephony.QHTelephonyManager
+2019-01-14 22:00:56.879 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:6174][Tid:1] TelephonyManager_getPreferredPhoneId_21 phoneId = 1,subId,1
+2019-01-14 22:00:56.921 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:6174][Tid:1] Setting up source: 12
+2019-01-14 22:00:56.922 [ERROR] [QiKuCloud][SyncInitializer][Pid:6174][Tid:1] Cannot setup source: 12 Message is: Unknown source: 12
+2019-01-14 22:00:56.923 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:6174][Tid:1] Setting up source: 1
+2019-01-14 22:00:56.928 [INFO] [QiKuCloud][AppSyncSourceConfig][Pid:6174][Tid:1] Migrating source config for contacts
+2019-01-14 22:00:56.954 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:6174][Tid:1] Setting up source: 7
+2019-01-14 22:00:56.955 [INFO] [QiKuCloud][AppSyncSourceConfig][Pid:6174][Tid:1] Migrating source config for xcloudcontact
+2019-01-14 22:00:56.966 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:6174][Tid:1] Setting up source: 6
+2019-01-14 22:00:56.968 [INFO] [QiKuCloud][AppSyncSourceConfig][Pid:6174][Tid:1] Migrating source config for cgroupcontact
+2019-01-14 22:00:56.982 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:6174][Tid:1] Setting up source: 64
+2019-01-14 22:00:56.984 [INFO] [QiKuCloud][AppSyncSourceConfig][Pid:6174][Tid:1] Migrating source config for crecord
+2019-01-14 22:00:57.000 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:6174][Tid:1] Setting up source: 2
+2019-01-14 22:00:57.002 [INFO] [QiKuCloud][CalendarManager][Pid:6174][Tid:1] getCalendarAuthority uri is com.android.calendar
+2019-01-14 22:00:57.004 [INFO] [QiKuCloud][CalendarManager][Pid:6174][Tid:1] getCalendarAuthority uri is com.android.calendar
+2019-01-14 22:00:57.006 [INFO] [QiKuCloud][CalendarManager][Pid:6174][Tid:1] getCalendarAuthority uri is com.android.calendar
+2019-01-14 22:00:57.009 [INFO] [QiKuCloud][AppSyncSourceConfig][Pid:6174][Tid:1] Migrating source config for calendar
+2019-01-14 22:00:57.027 [INFO] [QiKuCloud][SyncInitializer][Pid:6174][Tid:1] initController sucess initialized = true
+2019-01-14 22:00:57.031 [INFO] [QiKuCloud][MonitorWraper][Pid:6174][Tid:1] startMoitor
+2019-01-14 22:00:57.039 [INFO] [QiKuCloud][CCScheduledThreadPoolExecutor][Pid:6174][Tid:1] --------CCScheduledThreadPoolExecutor initialized------corePoolSize is： 10
+2019-01-14 22:00:57.073 [INFO] [QiKuCloud][ServiceKiller][Pid:6174][Tid:477] kill syncservice!
+2019-01-14 22:01:34.130 [INFO] [QiKuCloud][ServiceKiller][Pid:6174][Tid:477] kill syncservice!
+2019-01-14 22:01:37.743 [INFO] [QiKuCloud][ServiceKiller][Pid:6174][Tid:1] kill syncservice!
+2019-01-15 11:12:26.402 [INFO] [QiKuCloud][com.cloudsync.android.common.log.Log][Pid:26561][Tid:1] init logger >>>>>>>>>
+2019-01-15 11:12:26.408 [INFO] [QiKuCloud][SyncInitializer][Pid:26561][Tid:1] 1.01.272.170306, model is 5041,getModel is 5041,CPB version is ADVAN/5041/ADVAN_5041:6.0/MRA58K/336:user/release-keys MANUFACTURER is ADVAN
+2019-01-15 11:12:26.409 [INFO] [QiKuCloud][SyncInitializer][Pid:26561][Tid:1] Log file created into: /storage/emulated/0/Android/data/com.qiku.android.cloudsync/funambol
+2019-01-15 11:12:26.416 [INFO] [QiKuCloud][AndroidCustomization][Pid:26561][Tid:1] Initializing sources info
+2019-01-15 11:12:26.529 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:26561][Tid:1] Setting up source: 8
+2019-01-15 11:12:26.587 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:26561][Tid:1] Setting up source: 32
+2019-01-15 11:12:26.596 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:26561][Tid:1] Setting up source: 9
+2019-01-15 11:12:26.603 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:26561][Tid:1] Setting up source: 3
+2019-01-15 11:12:26.615 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:26561][Tid:1] ClassNotFoundExceptionjava.lang.ClassNotFoundException: com.qiku.android.feature.FeatureConfig
+2019-01-15 11:12:26.617 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:26561][Tid:1] ClassNotFoundExceptionjava.lang.ClassNotFoundException: com.qiku.android.internal.telephony.PhoneModeManager
+2019-01-15 11:12:26.619 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:26561][Tid:1] ClassNotFoundExceptionjava.lang.ClassNotFoundException: com.qiku.android.telephony.QHTelephonyManager
+2019-01-15 11:12:26.641 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:26561][Tid:1] TelephonyManager_getPreferredPhoneId_21 phoneId = 1,subId,1
+2019-01-15 11:12:26.665 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:26561][Tid:1] Setting up source: 12
+2019-01-15 11:12:26.666 [ERROR] [QiKuCloud][SyncInitializer][Pid:26561][Tid:1] Cannot setup source: 12 Message is: Unknown source: 12
+2019-01-15 11:12:26.667 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:26561][Tid:1] Setting up source: 1
+2019-01-15 11:12:26.684 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:26561][Tid:1] Setting up source: 7
+2019-01-15 11:12:26.687 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:26561][Tid:1] Setting up source: 6
+2019-01-15 11:12:26.691 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:26561][Tid:1] Setting up source: 64
+2019-01-15 11:12:26.702 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:26561][Tid:1] Setting up source: 2
+2019-01-15 11:12:26.704 [INFO] [QiKuCloud][CalendarManager][Pid:26561][Tid:1] getCalendarAuthority uri is com.android.calendar
+2019-01-15 11:12:26.706 [INFO] [QiKuCloud][CalendarManager][Pid:26561][Tid:1] getCalendarAuthority uri is com.android.calendar
+2019-01-15 11:12:26.708 [INFO] [QiKuCloud][CalendarManager][Pid:26561][Tid:1] getCalendarAuthority uri is com.android.calendar
+2019-01-15 11:12:26.714 [INFO] [QiKuCloud][SyncInitializer][Pid:26561][Tid:1] initController sucess initialized = true
+2019-01-15 11:12:26.721 [INFO] [QiKuCloud][MonitorWraper][Pid:26561][Tid:1] startMoitor
+2019-01-15 16:04:14.708 [INFO] [QiKuCloud][com.cloudsync.android.common.log.Log][Pid:818][Tid:1] init logger >>>>>>>>>
+2019-01-15 16:04:14.741 [INFO] [QiKuCloud][SyncInitializer][Pid:818][Tid:1] 1.01.272.170306, model is 5041,getModel is 5041,CPB version is ADVAN/5041/ADVAN_5041:6.0/MRA58K/336:user/release-keys MANUFACTURER is ADVAN
+2019-01-15 16:04:14.746 [INFO] [QiKuCloud][SyncInitializer][Pid:818][Tid:1] Log file created into: /storage/emulated/0/Android/data/com.qiku.android.cloudsync/funambol
+2019-01-15 16:04:14.769 [INFO] [QiKuCloud][AndroidCustomization][Pid:818][Tid:1] Initializing sources info
+2019-01-15 16:04:15.207 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:818][Tid:1] Setting up source: 8
+2019-01-15 16:04:15.382 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:818][Tid:1] Setting up source: 32
+2019-01-15 16:04:15.405 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:818][Tid:1] Setting up source: 9
+2019-01-15 16:04:15.424 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:818][Tid:1] Setting up source: 3
+2019-01-15 16:04:15.453 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:818][Tid:1] ClassNotFoundExceptionjava.lang.ClassNotFoundException: com.qiku.android.feature.FeatureConfig
+2019-01-15 16:04:15.456 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:818][Tid:1] ClassNotFoundExceptionjava.lang.ClassNotFoundException: com.qiku.android.internal.telephony.PhoneModeManager
+2019-01-15 16:04:15.459 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:818][Tid:1] ClassNotFoundExceptionjava.lang.ClassNotFoundException: com.qiku.android.telephony.QHTelephonyManager
+2019-01-15 16:04:15.543 [INFO] [QiKuCloud][QKClassProxyUtil][Pid:818][Tid:1] TelephonyManager_getPreferredPhoneId_21 phoneId = 1,subId,1
+2019-01-15 16:04:15.728 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:818][Tid:1] Setting up source: 12
+2019-01-15 16:04:15.733 [ERROR] [QiKuCloud][SyncInitializer][Pid:818][Tid:1] Cannot setup source: 12 Message is: Unknown source: 12
+2019-01-15 16:04:15.739 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:818][Tid:1] Setting up source: 1
+2019-01-15 16:04:15.778 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:818][Tid:1] Setting up source: 7
+2019-01-15 16:04:15.790 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:818][Tid:1] Setting up source: 6
+2019-01-15 16:04:15.800 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:818][Tid:1] Setting up source: 64
+2019-01-15 16:04:15.825 [INFO] [QiKuCloud][AndroidAppSyncSourceManager][Pid:818][Tid:1] Setting up source: 2
+2019-01-15 16:04:15.838 [INFO] [QiKuCloud][CalendarManager][Pid:818][Tid:1] getCalendarAuthority uri is com.android.calendar
+2019-01-15 16:04:15.860 [INFO] [QiKuCloud][CalendarManager][Pid:818][Tid:1] getCalendarAuthority uri is com.android.calendar
+2019-01-15 16:04:15.865 [INFO] [QiKuCloud][CalendarManager][Pid:818][Tid:1] getCalendarAuthority uri is com.android.calendar
+2019-01-15 16:04:15.948 [INFO] [QiKuCloud][SyncInitializer][Pid:818][Tid:1] initController sucess initialized = true
+2019-01-15 16:04:15.965 [INFO] [QiKuCloud][MonitorWraper][Pid:818][Tid:1] startMoitor
